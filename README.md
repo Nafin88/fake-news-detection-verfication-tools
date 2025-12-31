@@ -1,1 +1,1 @@
-# fake-news-detection-verfication-tools
+# fake-news-detection- and-verfication-tools
